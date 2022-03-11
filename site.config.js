@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Hajeeknの狂人日记',
-  domain: 'slqwq.cn',
+  domain: 'https://www.notion.so/Hajeekn/6b0c2e2b7da3416cbbd1481b17d6a98b',
   author: 'Hajeekn',
 
   // open graph metadata (optional)
